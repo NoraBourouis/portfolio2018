@@ -1,0 +1,67 @@
+<?php
+define("Menu", "Experiences");
+define("Menu_1", "Skills");
+define("Menu_2", '<a href="index.php?page=mesrea2&css=%27.$css.%27">Portfolio</a>');
+define("Menu_3", "");
+define("Menu_4", "Contact me");
+define("MSG_top", "Welcome to");
+define("MSG_top2", "Nora Bourouis' Portfolio");
+define("Titre_intro","Who am I?");
+define("MSG_INTRO", "Hi, I am Nora. I am a project manager and I would love to work for a PR agency. I've been studying in a career-oriented degree, where I learned every aspects of the Web project management as well as localization. If my profil interest you, you can keep scrolling. By the way, I can start working from October 2018. ");
+define("Titre_BG_3","My skills");
+define("Titre_section_BG3_1", "Web development & integration");
+define("msg_section_BG3_1","During my Caweb training, I had the opportunity to participate in several web development and integration projects. You can discover some of my achievements on my portfolio.");
+define("Titre_section_BG3_2", "Digital communication");
+define("msg_section_BG3_2","I can also be a web editor. Indeed, I wrote many news and articles for the Conseil Départemental du Bas-Rhin  as part of my apprenticeship. I also contributed to the Caweb Master's blog by writing two articles about web news.
+");
+define("Titre_section_BG3_3", "Localization and translation");
+define("msg_section_BG3_3", "Coming from a linguistic background, I couldn't chose a master degree that would make me give up language training. That's one of the reason why I decided to do the Master Caweb degree. There, I had the opportunity to fulfill my knowledge on translation, but most importantly, I was introduced to Localization. I had several classes on this subject and I could have the opportunity to be part of a 10hours course on Localization taught by Google.");
+define("Titre_section_BG3_4","Project Management");
+define("msg_section_BG3_4","Within two years, I had the opportunity to take care of two huge projects as a project manager. One was an application Redesign, the other one was a website redesign. I also supervised the Community management team of the social media of the Master Caweb. 
+From writing specifications to final testing and training the client: nothing scares me. I have been trained to manage every step of project management. Furthermore, I have been trained mostly with the AGIL method. (SCRUM, Kanban)");
+define("Titre_Bg_4","More details");
+define("Titre_section_BG4_1","I code in");
+define("Titre_section_BG4_2","I speak ");
+define("msg_section_BG4_2_1","French");
+define("msg_section_BG4_2_2","English (C1)");
+define("msg_section_BG4_2_3","Japanese (B2)");
+define("Titre_section_BG4_3","I use");
+define("Titre_section_BG4_4","the following software");
+define("Titre_section_BG4_5","the following CMS");
+define("Titre_Bg_5","My work experience");
+define("Titre_section_BG5","Release of the new version of the application Bas-Rhin à Vélo");
+define("Role_BG5","Project Manager");
+define("Mission_BG5","Project to redesign the Bas-Rhin à vélo Application in collaboration with the technical team and the DTP team in order to improve the usability of the application, the associated design and to transfer the Backoffice to the company's server.");
+define("Date_BG5","June 2018");
+define("Titre_section_BG5_1","Apprenticeship at Conseil Départemental du Bas-Rhin");
+define("Role_BG5_1","Manager of the application called Bas-Rhin à Vélo.");
+define("Mission_BG5_1","Writing for the web, community management");
+define("Date_BG5_1","04/09/2017-30/09/2018");
+define("Titre_section_BG5_2","Community management for Master Caweb");
+define("Role_BG5_2","Project manager on Social Media ");
+define("Mission_BG5_2","Managed a team of three students to work on the following social media : Facebook, Twitter, Instagram and LinkedIn.");
+define("Date_BG5_2","10/06/2017 - 01/06/2018");
+define("Titre_section_BG5_3","Redesign of the Catra company's website");
+define("Role_BG5_3"," Co-project manager, web integrator & web developer");
+define("Mission_BG5_3","Redesign of the CATRA company's website. This redesign has been done at my first year of master degree in a team of five students.");
+define("Date_BG5_3","01/02/2017 - 01/06/2017");
+define("Titre_section_BG5_4","Internship at the Wag Inc. PR agency.");
+define("Mission_BG5_4","End-of-study internship at the PR agency.");
+define("Date_BG5_4","01/02/2016 - 01/04/2016");
+define("Role_BG5_4","Intern");
+define("Titre_Bg6","Contact me");
+define("Label_nom","Last name : ");
+define("Label_prenom","First Name: ");
+define("Label_mail","Email :  ");
+define("Label_mess","Your message :");
+define("Titre_Bg7", "To know more about me and my plans");
+define("Titre_Bg7_1", "Find me on");
+define("Envoyer", "Send");
+define("Footer", "All rights reserved. Nora's Portfolio.");
+define("MSG_ok", "Your message has been successfully sent.Thank you very much for your time and consideration, I will answer your message as soon as possible.");
+define("MSG_erreur", "<p class='invalide'>The email adress you have entered is not valid.</p>");
+define("MSG_erreur2","<p class='manque'>One or more than one required fields have not been completed. Please check and try again.</p>");
+define("","");
+define("","");
+
+?>
